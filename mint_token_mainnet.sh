@@ -4,7 +4,7 @@
 # and then you can run this script to mint.
 
 mintamount="20"
-winneraddr="addr1qyeut7y949w2wqh49stkr3g5leljdxngrpdmevelchej7apcdpz8x4rdlpd5q8h4j4nlujs7lfx4nds2jqe6v2zxvk3qfr7wtu"
+winneraddr="addrxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 assetname="MeltyLumens"
 cd $assetname/
 export CARDANO_NODE_SOCKET_PATH="/home/narcissa/Desktop/cardano-node/db_main/node.socket"
