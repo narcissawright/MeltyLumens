@@ -1,0 +1,23 @@
+{
+  "141183919191": {
+    "reason_for_mint": {
+      "description": "3rd place prize @ Illumination #1",
+      "amount": "20",
+      "recipient": "narcissawright",
+      "bracket": "https://challonge.com/4tyih1ar",
+      "video": "https://youtube.com/watch?v=1fsm8EbXy48",
+      "results": {
+        "1st": ["JD"],
+        "2nd": ["NotLexi (MilkyCao)"],
+        "3rd": ["narcissawright"],
+        "4th": ["D_Girl"],
+        "5th": ["julie_9_4", "Umi"],
+        "7th": ["Viviana", "dom (ckarini)"],
+        "9th": ["nathanisbored", "tiri"]
+      },
+      "attendees": "10",
+      "pot_size": "100",
+      "misc": "metadata format may be changed for later mints."
+    }
+  }
+}
