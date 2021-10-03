@@ -10,5 +10,6 @@ Mainly uploading this for "posterity" but if you're interested in minting on Car
 - edit mint_token_mainnet.sh with your preferred parameters (amount paid, to whom)
 - edit metadata.json (or omit it from mint_token_mainnet.sh)
 - run mint_token_mainnet.sh
+- To mint more tokens, simply edit mint_token_mainnet.sh and metadata.json again, and run mint_token_mainnet.sh again.
 
 <https://cardanoscan.io/token/16dffafcb1ed33ed09a1e25742fa12e7d8caf72817ccdc8b1c4b132e4d656c74794c756d656e73>
